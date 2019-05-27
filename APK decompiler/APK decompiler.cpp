@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 #include <Windows.h>
-#include <cmath>
-#include <math.h>
 #include <fstream>
 
 using namespace std;
